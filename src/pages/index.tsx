@@ -2,8 +2,8 @@ import { Box, Button, Flex, Text } from "@mantine/core";
 
 import { vars } from "@/theme";
 import { tss } from "tss-react";
-import { ClassesExample } from "./components/ClassesExample";
-import { CssPropExample } from "./components/CssPropExample";
+import { ClassesExample } from "../components/ClassesExample";
+import { CssPropExample } from "../components/CssPropExample";
 import { useState } from "react";
 
 export default function Home() {
